@@ -52,3 +52,18 @@
   
 ![FrequencyQuery](https://github.com/michaellegg16/sql-challenge/blob/master/Screenshots/FrequencyQuery.png)
 ![FrequencyOutput](https://github.com/michaellegg16/sql-challenge/blob/master/Screenshots/FrequencyOutput.png)
+
+
+### Instructions
+
+1. Download that data files and open a PostgresSQL server.
+1. Create a new database.
+1. In the query tool, open the "employees_db.sql" file.
+1. Run each query to create the tables.
+1. Immediately as the table is created (before creating the next table), refresh the tables list and import the data from the proper location with "Headers" selected and the delimiter set as ",".
+1. A select query can be performed on each table to check that the data has been properly imported.
+1. Open the "queries.sql" file in the query tool.
+1. Run any query to view the desired results.
+
+### Conclusion
+
