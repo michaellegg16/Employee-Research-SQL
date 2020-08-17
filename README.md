@@ -56,7 +56,7 @@
 
 ### Instructions
 
-1. Download that data files and open a PostgresSQL server.
+1. Download that data files and create an empty PostgresSQL database.
 1. Create a new database.
 1. In the query tool, open the "employees_db.sql" file.
 1. Run each query to create the tables.
