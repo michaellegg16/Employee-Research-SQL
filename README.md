@@ -14,13 +14,14 @@
   
 * Data Analysis:
   * List the following details of each employee: employee number, last name, first name, gender, and salary.
-  
-![EmployeeData](
+ 
+![EmployeesQuery](https://github.com/michaellegg16/sql-challenge/blob/master/Screenshots/EmployeeQuery.png)
+![EmployeesOutput](https://github.com/michaellegg16/sql-challenge/blob/master/Screenshots/EmployeeOutput.png)
 
   * List employees who were hired in 1986.
   
-![EmployeesQuery](https://github.com/michaellegg16/sql-challenge/blob/master/Screenshots/EmployeeQuery.png)
-![EmployeesOutput](https://github.com/michaellegg16/sql-challenge/blob/master/Screenshots/EmployeeOutput.png)
+![Employees1986Query](https://github.com/michaellegg16/sql-challenge/blob/master/Screenshots/Employee1986Query.png)
+![Employees1986Output](https://github.com/michaellegg16/sql-challenge/blob/master/Screenshots/Employee1986Output.png)
 
   * List the manager of each department with the following information: department number, department name, the manager's employee number, last name, first name, and start and end employment dates.
   
