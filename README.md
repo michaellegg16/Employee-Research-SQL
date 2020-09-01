@@ -64,7 +64,7 @@ It has start to become clear that the dataset is fake upon analysis. To confirm 
 
 * Create a histogram for the most common salary ranges.
 
-![SalaryRanges](https://github.com/michaellegg16/Employee-Research-SQL/blob/master/Screenshots/SalaryRanges.PNG)
+![SalaryRanges](https://github.com/michaellegg16/Employee-Research-SQL/blob/master/Screenshots/SalaryRanges_.PNG)
 
 * Create a bar chart of the average slary by title.
 
@@ -80,6 +80,9 @@ It has start to become clear that the dataset is fake upon analysis. To confirm 
 1. A select query can be performed on each table to check that the data has been properly imported.
 1. Open the "queries.sql" file in the query tool.
 1. Run any query to view the desired results.
+1. For the bonus section, start a Jupyter Notebook kernal and connect to your postgreSQL server (you must input your password if needed).
+1. Make sure that you have SQLAlchemy installed and run each cell to query the database and create the plots.
 
 ### Conclusion
+
 
