@@ -59,6 +59,9 @@
 It has start to become clear that the dataset is fake upon analysis. To confirm this hunch, visualize the most common salary ranges for employess and the average salary by title.
 
 * Import the SQL database into Pandas using SQL Alchemy.
+
+![Import](https://github.com/michaellegg16/Employee-Research-SQL/blob/master/Screenshots/SQLAlcImport.PNG)
+
 * Create a histogram for the most common salary ranges.
 
 ![SalaryRanges](https://github.com/michaellegg16/Employee-Research-SQL/blob/master/Screenshots/SalaryRanges.PNG)
