@@ -85,4 +85,4 @@ It has start to become clear that the dataset is fake upon analysis. To confirm 
 
 ### Conclusion
 
-
+Based on this analysis if it somewhat clear that the data provided is fake. Very few employees make over $100K and yet there are supposedly hundreded of thousands of employees at this company. Additionally, the "Senior Staff" and "Staff" have the highest average salaries, but the spread between average salaries by title is reasonably small. Supposedly, your own ID # is '499942' and if you look that up you are a "Technique Leader" making $40K.
